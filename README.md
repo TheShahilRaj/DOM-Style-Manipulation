@@ -14,7 +14,7 @@ The index.html file contains a basic HTML structure with a div element:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DOM Style Manipulation</title>
   <style>
-    /* Some initial styles for the div */
+## css code 
     #myDiv {
       width: 200px;
       height: 100px;
@@ -32,7 +32,11 @@ The index.html file contains a basic HTML structure with a div element:
   <div id="myDiv">Hello, I'm a div!</div>
 
   <script>
-    // Get the div element by its ID
+  </script>
+</body>
+</html>
+
+## Get the div element by its ID
     var myDiv = document.getElementById("myDiv");
 
     // Change the styles using JavaScript
@@ -45,9 +49,6 @@ The index.html file contains a basic HTML structure with a div element:
     myDiv.style.height = "200px";
     myDiv.style.width = "300px";
   </script>
-
-</body>
-</html>
 
 ## Repository
 
