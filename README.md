@@ -5,7 +5,7 @@ This repository provides a simple example of how to dynamically change the style
 ## Getting Started
 Open the index.html file in a web browser.
 ## Understanding the Code
-The index.html file contains a basic HTML structure with a div element:
+## html code 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,8 +13,16 @@ The index.html file contains a basic HTML structure with a div element:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DOM Style Manipulation</title>
-  <style>
+</head>
+<body>
+  <div id="myDiv">Hello, I'm a div!</div>
+  <script>
+  </script>
+</body>
+</html>
+
 ## css code 
+  
     #myDiv {
       width: 200px;
       height: 100px;
@@ -25,16 +33,6 @@ The index.html file contains a basic HTML structure with a div element:
       font-size: 16px;
       font-weight: normal;
     }
-  </style>
-</head>
-<body>
-
-  <div id="myDiv">Hello, I'm a div!</div>
-
-  <script>
-  </script>
-</body>
-</html>
 
 ## Get the div element by its ID
     var myDiv = document.getElementById("myDiv");
@@ -48,7 +46,7 @@ The index.html file contains a basic HTML structure with a div element:
     myDiv.style.fontWeight = "bold";
     myDiv.style.height = "200px";
     myDiv.style.width = "300px";
-  </script>
+  
 
 ## Repository
 
