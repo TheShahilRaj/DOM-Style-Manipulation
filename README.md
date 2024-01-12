@@ -3,8 +3,9 @@
 This repository provides a simple example of how to dynamically change the styles of a div element using the Document Object Model (DOM) in JavaScript.
 
 ## Getting Started
-Open the index.html file in a web browser.
+Open the dom.html file in a web browser
 ## Understanding the Code
+
 ## html code 
 
 <!DOCTYPE html>
