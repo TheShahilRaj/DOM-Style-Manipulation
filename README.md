@@ -6,21 +6,7 @@ This repository provides a simple example of how to dynamically change the style
 Open the dom.html file in a web browser
 ## Understanding the Code
 
-## html code
-
-{<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DOM Style Manipulation</title>
-</head>
-<body>
-  <div id="myDiv">Hello, I'm a div!</div>
-  <script>
-  </script>
-</body>
-</html>}
+## html code includng---
 
 ## css code 
   
