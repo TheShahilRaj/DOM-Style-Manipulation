@@ -7,4 +7,5 @@ This repository provides a simple example of how to dynamically change the style
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/change-div-styles.git
+
+https://github.com/TheShahilRaj/DOM-Style-Manipulation.git
