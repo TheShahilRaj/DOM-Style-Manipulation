@@ -6,7 +6,7 @@ This repository provides a simple example of how to dynamically change the style
 Open the dom.html file in a web browser
 ## Understanding the Code
 
-## html code 
+## dom.html
 
 <!DOCTYPE html>
 <html lang="en">
